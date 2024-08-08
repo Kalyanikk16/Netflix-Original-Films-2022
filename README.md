@@ -9,11 +9,11 @@ CSV Files:
   - `Specials.csv`: Contains data on Netflix Original Specials released in 2022.
 
 ## Code Overview
-Libraries Used:
+### Libraries Used:
   - `numpy`: For linear algebra operations.
   - `pandas`: For data processing and manipulation.
   - `os`: For file handling.
-Script:
+### Script:
   - The script reads CSV files from a specified directory and prints their paths.
   - It loads the data from these files into pandas DataFrames for further analysis.
 
